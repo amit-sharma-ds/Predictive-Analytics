@@ -1,1 +1,1 @@
-# Predictive-Analytics/ Time Series Analytics
+# Predictive-Analytics/ Time Series Analytic
